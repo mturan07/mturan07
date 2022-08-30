@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mturan07&layout=compact&exclude_repo=github-readme-stats,mturan07.github.io)](https://github.com/mturan07/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=mturan07)
+
 <!--
 **mturan07/mturan07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
