@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Microservices
-- 🌱 I’m currently learning React
-- 💬 Ask me about ...
 - 📫 How to reach me: https://www.linkedin.com/in/muratturan07/
 
 GitHub Stats 📈
