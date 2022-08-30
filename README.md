@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+GitHub Stats 📈
+
 <div align="center" dir="auto">
   
 <div dir="auto">
