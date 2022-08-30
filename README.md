@@ -2,15 +2,10 @@
 
 <table>
   
-<tr>
-  <td>
+<div align="center>
     ![Murat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mturan07&show_icons=true&theme=default)
-  </td>
-  <td>
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mturan07&layout=compact&exclude_repo=github-readme-stats,mturan07.github.io)](https://github.com/mturan07/github-readme-stats)
-  </td>
-</tr>
-</table>
+</div>
 
 ![](https://komarev.com/ghpvc/?username=mturan07)
 
