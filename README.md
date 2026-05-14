@@ -8,11 +8,11 @@ Currently, I maintain a total of 70 repositories on GitHub, though many remain p
 
 Featured Projects:
 
->> Costlane – A comprehensive cost calculation and truck storage management system.
+> Costlane – A comprehensive cost calculation and truck storage management system.
 
->> Launcher Hero – Production-ready .NET backend starter kit and boilerplate systems.
+> Launcher Hero – Production-ready .NET backend starter kit and boilerplate systems.
 
->> Finox App – A mobile-first personal budget coach and finance management tool.
+> Finox App – A mobile-first personal budget coach and finance management tool.
 
 
 <!--
