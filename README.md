@@ -2,6 +2,10 @@
 
 - 📫 How to reach me: https://www.linkedin.com/in/muratturan07/
 
+<img width="765" height="232" alt="image" src="https://github.com/user-attachments/assets/00843f9e-fc8f-4075-8e2d-495be0f3e04e" />
+
+Currently, I maintain a total of 70 repositories on GitHub, though many remain private as they house ongoing SaaS and mobile projects. My recent activity is centered on building scalable product architectures and mobile solutions, which I look forward to sharing or launching soon.
+
 <!--
 **mturan07/mturan07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
