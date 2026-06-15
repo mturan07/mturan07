@@ -2,9 +2,10 @@
 
 - 📫 How to reach me: https://www.linkedin.com/in/muratturan07/
 
-<img width="765" height="232" alt="image" src="https://github.com/user-attachments/assets/00843f9e-fc8f-4075-8e2d-495be0f3e04e" />
+<img width="761" height="216" alt="image" src="https://github.com/user-attachments/assets/1f16318e-93f2-4c5f-bf23-9b66e8347db0" />
 
-Currently, I maintain a total of 70 repositories on GitHub, though many remain private as they house ongoing SaaS and mobile projects. My recent activity is centered on building scalable product architectures and mobile solutions, which I look forward to sharing or launching soon.
+
+Currently, I maintain a total of 80 repositories on GitHub, though many remain private as they house ongoing SaaS and mobile projects. My recent activity is centered on building scalable product architectures and mobile solutions, which I look forward to sharing or launching soon.
 
 Featured Projects:
 
