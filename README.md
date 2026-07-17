@@ -5,7 +5,7 @@
 <img width="916" height="244" alt="image" src="https://github.com/user-attachments/assets/cf520663-2e16-401c-9045-f91324f2e190" />
 
 
-Currently, I maintain a total of 80 repositories on GitHub, though many remain private as they house ongoing SaaS and mobile projects. My recent activity is centered on building scalable product architectures and mobile solutions, which I look forward to sharing or launching soon.
+Currently, I maintain a total of 86 repositories on GitHub, though many remain private as they house ongoing SaaS and mobile projects. My recent activity is centered on building scalable product architectures and mobile solutions, which I look forward to sharing or launching soon.
 
 Featured Projects:
 
