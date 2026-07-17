@@ -5,15 +5,24 @@
 <img width="916" height="244" alt="image" src="https://github.com/user-attachments/assets/cf520663-2e16-401c-9045-f91324f2e190" />
 
 
-Currently, I maintain a total of 86 repositories on GitHub, though many remain private as they house ongoing SaaS and mobile projects. My recent activity is centered on building scalable product architectures and mobile solutions, which I look forward to sharing or launching soon.
+Currently building scalable SaaS products, AI-native developer tools, and modern .NET backend architectures.
 
-Featured Projects:
+Over the past decade, I've delivered software across FinTech, Logistics, EdTech, Hospitality, Healthcare, and Public Sector domains. My focus is designing maintainable backend systems, distributed architectures, and production-ready products using the .NET ecosystem.
 
-> Costlane – A comprehensive cost calculation and truck storage management system.
+I maintain over 80 GitHub repositories, ranging from reusable backend frameworks to commercial SaaS applications and experimental AI projects. Many remain private as they power active products under development.
 
-> Launcher Hero – Production-ready .NET backend starter kit and boilerplate systems.
+Featured Projects
 
-> Finox App – A mobile-first personal budget coach and finance management tool.
+🚛 Costlane
+A multi-tenant SaaS platform for logistics cost calculation, truck load planning, and operational management.
+
+🚀 Launcher Hero
+Production-ready .NET backend starter kit featuring Clean Architecture, authentication, multi-tenancy, observability, background jobs, and modern development practices.
+
+💰 Finox App
+A mobile-first personal finance platform designed to help users manage budgets, expenses, and financial habits with an intuitive user experience.
+
+I'm particularly interested in Backend Architecture, Distributed Systems, SaaS Engineering, AI-assisted Software Development, and building products from zero to production.
 
 
 <!--
