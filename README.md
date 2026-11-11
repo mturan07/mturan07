@@ -2,8 +2,7 @@
 
 - 📫 How to reach me: https://www.linkedin.com/in/muratturan07/
 
-<img width="916" height="244" alt="image" src="https://github.com/user-attachments/assets/cf520663-2e16-401c-9045-f91324f2e190" />
-
+<img width="928" height="451" alt="image" src="https://github.com/user-attachments/assets/1b7b3a29-ac5e-44ad-bcf5-cdf2ec901ae4" />
 
 Currently building scalable SaaS products, AI-native developer tools, and modern .NET backend architectures.
 
